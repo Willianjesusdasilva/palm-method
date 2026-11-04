@@ -6,7 +6,7 @@
 
 O **PALM** estabelece uma abordagem metodológica estruturada para o desenvolvimento de software assistido por inteligência artificial, integrando princípios de engenharia de software, práticas de validação e mecanismos de controle ao longo do ciclo de desenvolvimento. Sua proposta é elevar a previsibilidade, a consistência e a eficiência dos processos, reduzindo a complexidade desnecessária, o retrabalho e o desperdício de recursos computacionais. A metodologia foi concebida para ser aplicada, mensurada e continuamente aprimorada em cenários reais de engenharia de software.
 
-[Explore o site](https://willianjesusdasilva.github.io/palm-method/) · [Use com sua IA](PROMPT.md) · [Preencha o roteiro](templates/palm.md) · [Veja um exemplo](examples/atendimentos.md)
+[Leia o ebook](https://willianjesusdasilva.github.io/palm-method/ebook.html) · [Explore o site](https://willianjesusdasilva.github.io/palm-method/) · [Use com sua IA](PROMPT.md) · [Preencha o roteiro](templates/palm.md) · [Veja um exemplo](examples/atendimentos.md)
 
 > Versão 0.1.0 · Método aberto · Desenvolvimento com intenção
 
