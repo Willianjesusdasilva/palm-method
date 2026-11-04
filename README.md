@@ -4,11 +4,11 @@
 
 **Dê à IA um propósito. Dê ao produto um limite.**
 
-Um método aberto e experimental para desenvolver com IA e controlar a expansão desnecessária de escopo.
+Um método aberto para desenvolver com IA e controlar a expansão desnecessária de escopo.
 
 [Explore o site](https://willianjesusdasilva.github.io/palm-method/) · [Use com sua IA](PROMPT.md) · [Preencha o roteiro](templates/palm.md) · [Veja um exemplo](examples/atendimentos.md)
 
-> Versão 0.1.0 · Proposta em validação · Sem promessas de ganhos comprovados
+> Versão 0.1.0 · Método aberto · Desenvolvimento com intenção
 
 ## O problema
 
@@ -49,14 +49,14 @@ Registre tempo para concluir a tarefa, erros, pedidos de ajuda, custo de operaç
 
 ## Origem e referências
 
-PALM significa **Propósito, Ação, Limites e Melhoria** nesta proposta. A organização do ciclo e dos instrumentos foi desenvolvida neste projeto com assistência de IA; não alegamos ineditismo dos princípios ou validação científica.
+PALM significa **Propósito, Ação, Limites e Melhoria** nesta proposta. A organização do ciclo e dos instrumentos foi desenvolvida neste projeto com assistência de IA, apoiando-se nas referências abaixo.
 
 - **Zen of Palm**: inspiração histórica de foco e simplicidade no design de aplicações portáteis. [Documento preservado pela UMass Lowell](https://www.cs.uml.edu/~fredm/courses/91.308-fall05/palm/zenofpalm.pdf).
 - **Manifesto Ágil, princípios (2001)**: software funcionando, simplicidade e reflexão regular. [Fonte original](https://agilemanifesto.org/principles.html).
 - **Martin Fowler, Yagni (2015)**: evitar capacidades presumidas e considerar seu custo de manutenção. [Artigo](https://martinfowler.com/bliki/Yagni.html).
 - **Ryan Singer, Shape Up, Set Boundaries**: delimitar o problema e o investimento antes de expandir a solução. [Capítulo](https://basecamp.com/shapeup/1.2-chapter-03).
 
-Essas fontes fundamentam os princípios; não validam os resultados deste método com IA. Não há afiliação, patrocínio ou continuidade oficial com Palm/PalmSource. Existe também o **Pedigreed Attribute eLicitation Method**, outro PALM voltado a objetivos e arquitetura, descrito pelo [SEI](https://www.sei.cmu.edu/blog/reducing-project-failures-by-aligning-acquisition-strategy-and-software-architecture-with-stakeholder-needs-first-in-a-series/). Este projeto é independente dele.
+Essas fontes fundamentam os princípios de foco, simplicidade, delimitação de escopo e melhoria contínua adotados pelo PALM. Não há afiliação, patrocínio ou continuidade oficial com Palm/PalmSource. Existe também o **Pedigreed Attribute eLicitation Method**, outro PALM voltado a objetivos e arquitetura, descrito pelo [SEI](https://www.sei.cmu.edu/blog/reducing-project-failures-by-aligning-acquisition-strategy-and-software-architecture-with-stakeholder-needs-first-in-a-series/). Este projeto é independente dele.
 
 ## Contribua
 
